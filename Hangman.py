@@ -17,7 +17,7 @@ chosen_place = random.choice(civilizations)
 
 print("This is the random word chosen",chosen_place) 
 
-turns = 10 
+turns = 12 
 
 counter = 0
 
