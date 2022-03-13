@@ -1,6 +1,6 @@
 # Hangman
 This is a Hangman game coded in Python. There are many countries that the program will 
-pick randomly such as America, Switzerland, Spain, Ukraine, and Canada. The user has
+pick randomly such as America, Switzerland, Spain, Japan, and Canada. The user has
 12 turns to pick a letter that is from the word randomly chosen. 
 
 Important Note: 
