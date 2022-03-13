@@ -3,7 +3,7 @@ import random
 """ 
 Hangman Game 
 
-1) Create an array with random words: Japan, America, Switzerland, France, England, Spain, Italy 
+1) Create an array with random words: America, Switzerland, Spain, Ukraine, Canada,
 and randomly select them. 
 
 2) Find a way to end the loop if all the turns end and if the player gets all the words 
@@ -11,7 +11,7 @@ and randomly select them.
 3) Enjoy yourself! :) 
 """ 
 
-civilizations = ["America","Switzerland","Spain","Russia","Canada"]
+civilizations = ["America","Switzerland","Spain","Ukraine","Canada"]
 
 chosen_place = random.choice(civilizations) 
 
