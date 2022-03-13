@@ -15,8 +15,6 @@ civilizations = ["America","Switzerland","Spain","Ukraine","Canada"]
 
 chosen_place = random.choice(civilizations) 
 
-print("This is the random word chosen",chosen_place) 
-
 turns = 12 
 
 counter = 0
